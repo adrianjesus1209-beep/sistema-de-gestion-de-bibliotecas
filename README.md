@@ -67,7 +67,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto en un entorno de desarrol
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/sistema-gestion-biblioteca.git
+    git clone https://github.com/tu-usuario/sistema-de-gestion-de-bibliotecas.git
     cd nombre-del-repositorio
     ```
 
