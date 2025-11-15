@@ -44,14 +44,14 @@ biblioteca_web/
 └──  index.php                # Punto de entrada de la aplicación (Front Controller).
 ```
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 *   **Backend**: PHP
 *   **Base de Datos**: MySQL
 *   **Frontend**: HTML, CSS, JavaScript
 *   **Servidor Web**: Apache
 
-## 🗄️ Diseño de la Base de Datos
+##  Diseño de la Base de Datos
 
 La base de datos del sistema es de tipo relacional y fue diseñada aplicando las **tres primeras formas normales (3NF)**. Este enfoque garantiza la integridad de los datos, minimiza la redundancia y asegura que la estructura sea flexible y escalable para futuras mejoras.
 
