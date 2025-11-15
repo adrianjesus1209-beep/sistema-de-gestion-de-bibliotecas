@@ -1,3 +1,10 @@
+## Autor
+
+*   **Usuario de GitHub:** [@adrianjesus1209-beep](https://github.com/adrianjesus1209-beep)
+*   **Fecha:** Noviembre de 2025
+
+---
+
 #  Sistema de Gestión de Biblioteca
 
 Un sistema web básico para la gestión de una pequeña biblioteca, desarrollado en PHP nativo siguiendo la arquitectura Modelo-Vista-Controlador (MVC). La aplicación permite la administración de libros, autores y préstamos, e incluye un sistema de autenticación de usuarios.
