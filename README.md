@@ -47,7 +47,6 @@ biblioteca_web/
 │   ├──  prestamos/          # Vistas CRUD para préstamos.
 │   └──  shared/             # Vistas parciales reutilizables (header, footer).
 │
-├──  .htaccess               # Configuración de Apache para reescritura de URL (URL amigables).
 └──  index.php                # Punto de entrada de la aplicación (Front Controller).
 ```
 
